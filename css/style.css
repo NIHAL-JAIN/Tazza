@@ -185,7 +185,7 @@ section{
 .product .banner_section,
 .gallery .banner_section,
 .contact .banner_section{
-    background: url(/images/banner-slide/top-banner.jpg);
+    background: url(images/banner-slide/top-banner.jpg);
     background-repeat: no-repeat;
     background-position:center;
     background-size:cover;
@@ -204,7 +204,7 @@ section{
 }
 
 .header .navbar {
-    background: url('/images/header-bg.png');
+    background: url(/images/header-bg.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
