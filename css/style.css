@@ -283,7 +283,8 @@ section{
     z-index: 999;
     /* box-shadow: .5084rem 1.1419rem 2.5rem 0 rgb(0 0 0 / 8%); */
     transition: 0.3s ease-in-out;
-}
+} 
+
 
 /*  02 Banner Section */
 .banner_section{
