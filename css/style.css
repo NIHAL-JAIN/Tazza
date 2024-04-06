@@ -185,7 +185,7 @@ section{
 .product .banner_section,
 .gallery .banner_section,
 .contact .banner_section{
-    background: url(./images/banner-slide/top-banner.jpg);
+    background: url(/images/banner-slide/top-banner.jpg);
     background-repeat: no-repeat;
     background-position:center;
     background-size:cover;
@@ -204,7 +204,7 @@ section{
 }
 
 .header .navbar {
-    background: url(./images/header-bg.png);
+    background: url(/images/header-bg.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -288,7 +288,7 @@ section{
 
 /*  02 Banner Section */
 .banner_section{
-    background:url('./images/banner-slide/Banner-1.jpg');
+    background:url('/images/banner-slide/Banner-1.jpg');
     background-repeat: no-repeat;
     background-position:center;
     background-size:cover;
@@ -358,7 +358,7 @@ section{
 }
 /* 04 About Us Section */
 .landing_about_section{
-    background:url("./images/about/about-banner.jpg");
+    background:url("/images/about/about-banner.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position:center center;
@@ -423,7 +423,7 @@ section{
     border-radius: 50%;
 }
 .testimonial_section .card{
-    background:url('./images/testimonial/testimonial-bg.png ');
+    background:url('/images/testimonial/testimonial-bg.png ');
     background-size: cover;
     background-repeat:no-repeat;
     background-position:center;
@@ -455,7 +455,7 @@ section{
 }
 /* 08 Footer Css */
 .footer_wrapper{
-    background:url("./images/footer-bg//footer_bg.png");
+    background:url("/images/footer-bg//footer_bg.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
